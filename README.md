@@ -1,5 +1,6 @@
 # devops10-20
-my **first** repo
+my **second** repo
+
 
 * odrazka 1
 * odrazka 2
@@ -12,29 +13,11 @@ my **first** repo
 3. Third item
 4. Fourth item
 
-free text
-
-1. First item
-2. Second item
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Fourth item
-
 ## **Unordered lists:**
 
 - First item
 - Second item
 - Third item
-- Fourth item
-
-free text 2
-
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
 - Fourth item
 
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).

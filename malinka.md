@@ -1,2 +1,2 @@
-# toto je malinka
-malinka je fajna
+first line in malinka
+
