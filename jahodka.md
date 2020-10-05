@@ -1,5 +1,5 @@
+#jahoda
 prvy testovaci riadok
-## je fajna
 ### alebo mozno nie
 dalsia zmena nebude 
-
+ale bude lebo kazali zmenu
