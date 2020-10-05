@@ -1,4 +1,5 @@
-# toto je info o jahodke
-## je fajna
+# toto je info o jahodach
+## nie je fajna
 ### alebo mozno nie
-dalsia zmena
+toto nebude dalsia zmena
+az toto bude zmena
