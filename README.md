@@ -37,4 +37,5 @@ free text 2
     - Indented item
 - Fourth item
 
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
