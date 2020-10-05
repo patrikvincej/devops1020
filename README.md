@@ -28,6 +28,8 @@ free text
 - Third item
 - Fourth item
 
+free text 2
+
 - First item
 - Second item
 - Third item
