@@ -1,4 +1,4 @@
-# toto je info o jahodke
+prvy testovaci riadok
 ## je fajna
 ### alebo mozno nie
-dalsia zmena
+dalsia zmena nebude 
