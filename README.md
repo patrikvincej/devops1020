@@ -5,6 +5,7 @@ my **second** repo
 * odrazka 1
 * odrazka 2
 * odrazka 3
+* odrazka 4
 
 ## **Ordered lists:**
 
