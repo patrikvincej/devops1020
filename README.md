@@ -25,3 +25,4 @@ My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 ### last edit in readme file
 this is last edit in my readme file
 
+presunute jahodka a malinka do fruits - koment
